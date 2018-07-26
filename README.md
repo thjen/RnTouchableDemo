@@ -1,1 +1,1 @@
-Touchable hightlight, Touchable opacity
+React native touchable hightlight, Touchable opacity
